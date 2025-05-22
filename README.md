@@ -1,5 +1,5 @@
 # B.Sc-Course-Summary
-# 📚 Computer Science BSc Course Summaries
+# 📚 Computer Science B.Sc. Course Summaries
 
 Welcome to my collection of PDF summaries from my BSc in Computer Science courses! These summaries cover essential topics and concepts from various courses, providing a concise and comprehensive review. Whether you're a student, a professional, or just a tech enthusiast, these summaries will be a valuable resource.
 
@@ -34,7 +34,7 @@ Learn about the complexity of computational problems and the resources required 
 - **Algorithm Design**: Learn strategies for designing efficient algorithms.
 - **Space and Time Complexity**: Explore the trade-offs between different types of resources used by algorithms.
 
-[📄 Download PDF](https://github.com/shanibider/Computer-Science-BSc-Course-Summaries/blob/master/%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99%D7%95%D7%AA%20%D7%95%D7%A1%D7%99%D7%91%D7%95%D7%9B%D7%99%D7%95%D7%AA%20-%20%D7%93%D7%92%D7%A9%D7%99%D7%9D.pdf)
+
 
 ### 🎨 UX-UI Design
 Understand the principles of user experience (UX) and user interface (UI) design. This course covers design thinking, usability, accessibility, and the creation of intuitive and engaging digital interfaces.
@@ -45,7 +45,6 @@ Understand the principles of user experience (UX) and user interface (UI) design
 - **Prototyping and Wireframing**: Explore tools and techniques for creating prototypes and wireframes.
 - **Usability Testing**: Gain skills in conducting usability tests to improve design effectiveness.
 
-[📄 Download PDF](https://github.com/shanibider/Computer-Science-BSc-Course-Summaries/blob/master/UX-UI%20%D7%A1%D7%99%D7%9B%D7%95%D7%9D.pdf)
 
 ### 🧵 Threads and Optimizations in Java
 Get to grips with concurrent programming in Java. This course focuses on thread management, synchronization, and performance optimization techniques to build efficient and responsive applications.
@@ -64,9 +63,9 @@ Happy learning! 🎉
 ---
 
 ## 📫 Connect with me 😊
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.onrender.com/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/itsdeepak-sharma/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak.ds.7421@gmail.com)
 
 
 Copyright ©
